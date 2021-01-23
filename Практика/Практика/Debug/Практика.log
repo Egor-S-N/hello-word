@@ -1,6 +1,0 @@
-﻿  Практика.cpp
-C:\Users\enifa\OneDrive\Рабочий стол\Практика\Практика\Практика.cpp(3,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-C:\Users\enifa\OneDrive\Рабочий стол\Практика\Практика\Практика.cpp(6,17): warning C4305: инициализация: усечение из "double" в "float"
-C:\Users\enifa\OneDrive\Рабочий стол\Практика\Практика\Практика.cpp(9,41): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\enifa\OneDrive\Рабочий стол\Практика\Практика\Практика.cpp(14,15): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  Практика.vcxproj -> C:\Users\enifa\OneDrive\Рабочий стол\Практика\Debug\Практика.exe
